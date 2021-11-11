@@ -1,0 +1,4 @@
+com/example/mob_lab6/BuildConfig.java
+ com.example.mob_lab6.BuildConfig
+com/example/mob_lab6/MainActivity.java
+ com.example.mob_lab6.MainActivity
